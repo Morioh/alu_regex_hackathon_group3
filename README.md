@@ -4,6 +4,8 @@ Regex Hackathon Questions and Solutions.
 
 1. The movie titles should match the pattern "Title (yyyy)", where "Title" is any string of characters, and "yyyy" is a four-digit year.
 
+([A-Z0-9][a-za-z0-9 ]+) \(([0-9]{4})\) or \w+ \(\d{4}\)
+
 2. The song lyrics should match the pattern "[Verse X] some lyrics", where X is a number, and "some lyrics" can be any string of characters.
 
 3. The twitter handles should match the pattern "@username", where "username" can be any string of letters and digits.
