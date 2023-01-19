@@ -20,6 +20,7 @@ Regex Hackathon Questions and Solutions.
 
 5. The jokes should match the pattern "Why did the ... ? Because...", where the first part of the pattern can be any string of characters, and the second part can be any string of characters.
 
+Why did the (.*?)\? Because (.*)
 
 
 6. The episode titles should match the pattern "Show Name SXXEXX: Episode Title", where "Show Name" is any string of characters, SXX is a two-digit season number and EXX is a two-digit episode number, and "Episode Title" is any string of characters.
