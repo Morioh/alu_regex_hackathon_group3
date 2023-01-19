@@ -41,7 +41,7 @@ Why did the (.*?)\? Because (.*)
 
 
 
-### in order to use the file on solution 6. you must install virtual env 
+## In order to use the file on solution 6 and solution 8. you must install   `python virtual env` and then install the `terminal color package` 
 
 in order to install the virtual env 
 just type 
