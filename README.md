@@ -38,3 +38,22 @@ Why did the (.*?)\? Because (.*)
 9. The IP addresses should match the pattern "xxx.xxx.xxx.xxx" where x is a digit between 0 and 255.
 
 
+
+
+
+### in order to use the file on solution 6. you must install virtual env 
+
+in order to install the virtual env 
+just type 
+`python3 -m venv env`
+
+and afterwards, ,activate it using 
+`source env/bin/activate` for those using linux 
+
+but in case you are windows, activate it using 
+`source env/scripts/activate` 
+
+and lastly, install the terminal colorizer,by running the command 
+`pip install termcolor`
+
+after that you are good to go and you can run the file normally
