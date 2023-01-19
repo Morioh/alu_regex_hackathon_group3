@@ -24,7 +24,7 @@ Why did the (.*?)\? Because (.*)
 
 
 6. The episode titles should match the pattern "Show Name SXXEXX: Episode Title", where "Show Name" is any string of characters, SXX is a two-digit season number and EXX is a two-digit episode number, and "Episode Title" is any string of characters.
-
+\w+\s+\w*\s*S\d{2,2}E\d{2,2}:\s(\w+\s+)*
 
 
 7. The dates should match the pattern dd-MMM-yyyy, where dd is a two-digit day, MMM is a three-letter month abbreviation, and yyyy is a four-digit year.
